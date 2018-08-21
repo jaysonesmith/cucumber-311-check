@@ -1,7 +1,7 @@
 When('foo') do
-  pending # Write code here that turns the phrase above into concrete actions
+  puts 'FOO!'
 end
 
 When('bar') do
-  pending # Write code here that turns the phrase above into concrete actions
+  puts 'BAR!'
 end
